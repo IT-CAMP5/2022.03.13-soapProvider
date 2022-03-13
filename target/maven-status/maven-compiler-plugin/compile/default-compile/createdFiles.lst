@@ -1,0 +1,8 @@
+pl\camp\it\soap\provider\App.class
+pl\camp\it\countries\Currency.class
+pl\camp\it\countries\Country.class
+pl\camp\it\countries\GetCountryRequest.class
+pl\camp\it\soap\provider\AppConfiguration.class
+pl\camp\it\countries\package-info.class
+pl\camp\it\countries\GetCountryResponse.class
+pl\camp\it\countries\ObjectFactory.class
